@@ -1,0 +1,22 @@
+/* style.css */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.sidebar .sidebar-content {
+    background-color: #f0f2f6;
+}
+
+h1 {
+    color: #ff6347; /* Tomato color for the title */
+}
+
+/* Custom styling for headers */
+h2 {
+    color: #2e7d32; /* Dark green color */
+}
+
+/* Styling for menu items */
+.markdown {
+    color: #333; /* Dark grey color */
+}
