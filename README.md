@@ -12,5 +12,5 @@ The Restaurant Search & Menu Generator is a simple yet powerful tool that uses a
 - Clone the Repository.
 - Run the Streamlit App using PyCharm or any Python Environment Supportable IDE.
 - Add your OpenAI API Secret Key in secret_key.py file. 
-- Type streamlit run main.py to Run in Local Machine.
-- Use the simple interface to start creating restaurant names and menus.
+- Type streamlit run main.py using Terminal to Run it in Local Machine.
+- Use the Simple Interface to Start Creating Restaurant Names and Menus.
