@@ -9,7 +9,7 @@ The Restaurant Search & Menu Generator is a simple yet powerful tool that uses a
 - Menu Creation: Choose between different food types like 'Halal' or 'All Food Items', and get a custom menu tailored to your selection.
 
 ## How to Use
-- Clone the Repository
+- Clone the Repository.
 - Run the Streamlit App using PyCharm or any Python Environment Supportable IDE.
 - Add your OpenAI API Secret Key in secret_key.py file. 
 - Type streamlit run main.py to Run in Local Machine.
